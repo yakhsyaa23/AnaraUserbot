@@ -1,1 +1,1 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[https://github.com/CyberXGithub/Userbot-Music-Telegram](https://github.com/yakhsyaa23/AnaraUserbot/AnaraUserbot))
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yakhsyaa23/AnaraUserbot/AnaraUserbot())
