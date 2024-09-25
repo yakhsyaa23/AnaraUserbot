@@ -1,1 +1,1 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yakhsyaa23/AnaraUserbot/tree/main/AnaraUserbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yakhsyaa23/AnaraUserbot/AnaraUserbot/)
